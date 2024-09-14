@@ -1,4 +1,4 @@
-# Meme Generator Project
+# Random Meme Generator
 
 ## Description
 This project generates random meme images using the Imgflip API. It was created using the Defang technology, which allows for easy project generation and setup.
@@ -27,7 +27,13 @@ This project uses the Imgflip API to fetch random meme images. For more informat
 
 ## Example
 When you run the project, you should see output similar to the following:
-https://github.com/CynthiaWahome/randommeme/wiki
+
+![Video Thumbnail](https://github.com/user-attachments/assets/f698f2c6-1fe6-4696-965c-e0792720de1e)
+
+[Watch a sample video here] https://github.com/CynthiaWahome/randommeme/wiki
+
+## Documentation
+For more information about Defang, visit the [Defang Documentation](https://defang.io).
 
 ## License
 This project is licensed under the MIT License.
